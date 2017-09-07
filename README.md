@@ -1,3 +1,3 @@
 # hello-world
 
-initial
+This is a readme file.
